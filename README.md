@@ -5,6 +5,6 @@ A test for me to learn how to maintain an OpenSource project and get an understa
 Add your username to the list of contributors below.
 
 ## Contributors
-* Jaswir
+* Jaswira
 * Jaswira
 * Jaswira
